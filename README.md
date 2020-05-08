@@ -2,7 +2,7 @@
 
 simple proyect with MERN stack
 
-![screenshot](docs/screenshot.png)
+![screenshot](screenshot.png)
 
 ## How to use?
 
